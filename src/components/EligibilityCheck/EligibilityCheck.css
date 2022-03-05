@@ -1,0 +1,239 @@
+.square-blue {
+  background-color: #427bdd;
+  /* width: 95.5vw; */
+  height: 16vh;
+  position: relative;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  z-index: 2;
+}
+.square-white {
+  /* margin-left: 1; */
+  position: relative;
+  top: -5vh;
+  z-index: 1000;
+  width: 91vw;
+  /* height: 100px; */
+  /* top: 93px; */
+  /* left: 87px; */
+  /* width: 1160px; */
+  height: 100px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: -5px 10px 20px #00000014;
+  border: 1px solid #edf4ff;
+  border-radius: 4px;
+  opacity: 1;
+}
+.ant-calendar-picker-input {
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+/* .ant-form-item-control {
+  position: relative;
+  line-height: 40px;
+  zoom: 1;
+} */
+
+/* .input.input-box, textarea { background: cyan; } */
+
+/* .ant-input:placeholder-shown {
+  background: red !important;
+  color: red !important;
+} */
+
+.export {
+  color: beige;
+  background-color: green;
+  margin-top: 5px;
+  margin-left: 45%;
+}
+
+/* input[type1=text] {
+  padding: 3px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+  border-left: none;
+  border-top: none;
+} */
+/* .div1 {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: calc(50% - 25px);
+    left: calc(50% - 50px);
+    z-index: 2;
+  }
+  
+  .div2 {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    position: relative;
+  } */
+
+.ReactTable {
+  margin-top: 74px;
+}
+
+.ReactTable .rt-tbody {
+  margin-top: 30px;
+}
+
+.ReactTable .rt-thead {
+  background-color: white;
+  position: fixed;
+  top: 1;
+  z-index: 1;
+  width: calc(100% - 17px);
+  height: 31px;
+}
+
+.ant-card-head {
+  min-height: 48px;
+  margin-bottom: -1px;
+  padding: 0 8px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 16px;
+  background: transparent;
+  border-bottom: 1px solid #e8e8e8;
+  border-radius: 2px 2px 0 0;
+  zoom: 1;
+}
+
+.search-card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 10px #00000019;
+  border: 1px solid #588ae02f;
+  opacity: 1;
+  border-radius: 4px;
+}
+
+.search-card-text {
+  /* text-align: center; */
+  font-size: 12px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.24px;
+  color: #16345f;
+  opacity: 1;
+}
+
+/* .ant-select-selection__placeholder{
+      text-align: center;
+      font: normal normal medium 10px/13px Montserrat;
+      letter-spacing: -0.4px;
+      color: #969696 !important;
+    } */
+
+.search-button {
+  width: 25px;
+  height: 24px;
+  /* box-shadow: 0px 5px 10px #00000027; */
+  border: none;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.clear-button-color {
+  background: transparent
+    linear-gradient(
+      224deg,
+      #de7272 0%,
+      #d14a4af0 29%,
+      #ba3636cb 68%,
+      #e67575 100%
+    )
+    0% 0% no-repeat padding-box;
+}
+
+.search-button-color {
+  background: transparent
+    linear-gradient(
+      224deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+}
+
+.search-sreen-text {
+  text-align: left;
+  font-size: 20px !important;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color: #464f5d;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.blank-screen-image {
+  position: relative;
+  padding-top: 12vh;
+  padding-left: 26vw;
+}
+
+.no-data-found {
+  /* position: absolute; */
+  padding-top: 6vh;
+  padding-left: 28vw;
+}
+
+.or {
+  margin-left: 12vw;
+}
+
+.ant-input:placeholder-shown {
+  background: #f8f6f6 !important;
+  color: #272626 !important;
+}
+
+.ant-tabs-nav-scroll {
+  padding-left: 8px;
+}
+
+/* .ant-tabs {
+    background-color: #F7FAFF !important;
+  } */
+
+.npdata-text {
+  text-align: center;
+  text-align: left;
+  font-size: 18px !important;
+  font-family: Montserrat;
+  margin-left: 52px !important;
+  font-weight: 500;
+  color: #464f5d;
+  text-transform: capitalize;
+}
+
+.total-lenth {
+  text-align: left;
+  /* font: normal normal 600 16px/19px Montserrat; */
+  font-size: 14px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: 0px;
+  color: #323539;
+}
+
+.ant-tabs-card-bar {
+  background: transparent
+    linear-gradient(
+      268deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 4px 0px 0px 4px;
+  padding-top: 8px;
+}

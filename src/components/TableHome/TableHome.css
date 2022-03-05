@@ -1,0 +1,28 @@
+/* .user-filter-icon {
+    height: 20px;
+    width: 20px;
+} */
+
+.date-table-header-text {
+  text-align: left;
+  font: 16px Montserrat;
+  font-weight: 800 !important;
+  letter-spacing: 0.64px;
+  color: #1a1919;
+  opacity: 1;
+}
+
+.table-filter-icon {
+  background: transparent
+    linear-gradient(
+      302deg,
+      #7eaeff 0%,
+      #427bddeb 12%,
+      #4583ef 93%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 10px #00000027;
+  border: 1px solid #ffffff !important;
+  border-radius: 4px;
+}

@@ -1,0 +1,65 @@
+.header-text {
+  text-align: left;
+  font-size: 20px;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.ghraph-spinner {
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  /* transform: translate(-50%, -50%); */
+}
+
+.common-text-css {
+  font-family: Montserrat !important;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  color: #2e2e2e;
+  /* display: inline; */
+}
+
+.year-text-size {
+  font-size: 14px;
+}
+
+/* .legend-color-blue {
+  color: #2176ff 0% 0% no-repeat padding-box !important;
+} */
+
+.year-squire {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  border-radius: 2px;
+  opacity: 1;
+}
+
+.squire-color-first {
+  background: #2176ff 0% 0% no-repeat padding-box;
+  margin-top: 6px !important;
+}
+.squire-color-second {
+  background: #ffd371 0% 0% no-repeat padding-box;
+  margin-top: 6px !important;
+}
+.squire-color-third {
+  background: #AF7AC5 0% 0% no-repeat padding-box;
+  margin-top: 6px !important;
+}
+
+.year-value {
+  margin-top: 4px !important;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .fa {
+  transform: scale(5.5, 3) !important;
+  -webkit-transform: scale(1.5, 1);
+  -moz-transform: scale(1.5, 1);
+  -ms-transform: scale(1.5, 1) !important;
+  -o-transform: scale(1.5, 1);
+  transform: scale(1.5, 1);
+} */

@@ -1,0 +1,46 @@
+/* #mainTable > tr.tdata:hover {
+    cursor: pointer;
+    background: #d3d3d3 !important;
+} */
+
+.tdata:hover {
+  cursor: pointer;
+}
+
+tbody tr td {
+  border: 1px solid #f0f0f0;
+}
+
+.tdata {
+  text-align: left;
+  font: 10px Montserrat;
+  font-weight: 600;
+  letter-spacing: 0.24px;
+  color: #0240ac;
+  opacity: 1;
+}
+
+/* Table spacing using padding .5rem */
+
+.table td,
+.table th {
+  padding: 0.5rem;
+  /* text-align: center; */
+}
+
+tr:hover {
+  background-color: #c7c1c1;
+}
+
+.table td {
+  vertical-align: middle;
+  border-top: 1px solid #e3e6f0;
+}
+
+.green-tag {
+  border-left: 8px solid #0ad4a8;
+}
+
+.red-tag {
+  border-left: 8px solid #ff859e;
+}

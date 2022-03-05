@@ -1,0 +1,105 @@
+.right-side-header {
+  text-align: left;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  font-family: Montserrat !important;
+  letter-spacing: 1.3px;
+  color: #2e2e2e;
+  text-transform: uppercase;
+}
+
+.user-filter-icon {
+  background: transparent
+    linear-gradient(
+      305deg,
+      #7eaeff 0%,
+      #427bddeb 12%,
+      #4583ef 93%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+
+.user-card-header {
+  background: transparent
+    linear-gradient(
+      261deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 10px #0000001a;
+  border-radius: 6px;
+  text-align: left;
+  font: 16px;
+  font-family: Montserrat;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.ant-card-body {
+  padding: 0px !important;
+}
+
+.card-content-sepertor {
+  width: 200px;
+  height: 0.1px;
+  opacity: 0.5;
+  /* margin-top: -.5px !important; */
+  background-color: #fff;
+}
+
+.global-family {
+  font-family: Montserrat !important;
+  color: #6a6a6a;
+  font-size: 12px !important;
+}
+
+.ant-card-bordered {
+  border: 1px solid #e2edff !important;
+  border-radius: 8px !important;
+}
+
+.right-side-header-scroll {
+  height: 94vh !important;
+  overflow-y: scroll !important;
+}
+
+/* .sidebar-divider {
+  width: 100% !important;
+  height: 0.1px;
+  opacity: 0.4;
+  background-color: #fff;
+} */
+
+.ant-row {
+  margin-bottom: -8px !important;
+}
+
+.mt-2,
+.my-2 {
+  margin-top: 0.1rem !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b5b5b5;
+  border-radius: 6px;
+  background: #5285DD
+}
+::-webkit-scrollbar {
+  width: 8px;
+  z-index: 2;
+  cursor: pointer;
+  transition: opacity 0.25s linear;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+  /* border-radius: 8px; */
+}

@@ -1,0 +1,401 @@
+{
+  "columns": {
+    "uniqueMemberID": {
+      "displayName": "UniqueMemberID",
+      "display": false
+    },
+    "claimNumber": {
+      "displayName": "Claim Number",
+      "display": true
+    },
+    "patientName": {
+      "displayName": "Member Name",
+      "display": true
+    },
+    "subscribeID": {
+      "displayName": "Sub ID",
+      "display": true
+    },
+    "dosFromDate": {
+      "displayName": "DOS From",
+      "display": true,
+      "filterType": "date"
+    },
+    "dosToDate": {
+      "displayName": "DOS To",
+      "display": true,
+      "filterType": "date"
+    },
+    "claimStatus": {
+      "displayName": "Claim Status",
+      "display": true
+    },
+    "billingProviderName": {
+      "displayName": "Billing Provider",
+      "display": true
+    },
+    "providerName": {
+      "displayName": "Rendering Provider",
+      "display": true
+    },
+    "pcpNPI": {
+      "displayName": "NPI",
+      "display": true
+    },
+    "totalPaymentAmount": {
+      "displayName": "Total Charges($)",
+      "display": true
+    },
+    "totalNetPaymentAmt": {
+      "displayName": "Net Pay Amt ($)",
+      "display": true
+    },
+    "claimType": {
+      "displayName": "Claim Type",
+      "display": true
+    },
+    "taxid": {
+      "displayName": "Tax ID",
+      "display": true
+    },
+    "subscriberName": {
+      "displayName": "Subs. Name",
+      "display": false
+    },
+    "planCode": {
+      "displayName": "Plan Code",
+      "display": false
+    },
+    "paidOn": {
+      "displayName": "Paid On",
+      "display": false
+    },
+    "age": {
+      "displayName": "Age",
+      "display": false
+    },
+    "planName": {
+      "displayName": "Plan Name",
+      "display": false
+    },
+    "planReceivedDate": {
+      "displayName": "Plan Recieve Date",
+      "display": false,
+      "filterType": "date"
+    }
+  },
+  "MemberData": {
+    "UniqueMemberID": {
+      "displayName": "UniqueMemberID",
+      "display": false
+    },
+    "CenterID": {
+      "displayName": "CenterID",
+      "display": false
+    },
+    "SubscriberID": {
+      "displayName": "Subscriber ID",
+      "display": true
+    },
+    "FirstName": {
+      "displayName": "First Name",
+      "display": true
+    },
+    "LastName": {
+      "displayName": "Last Name",
+      "display": true
+    },
+    "MedicaidNumber": {
+      "displayName": "MedicaidNumber",
+      "display": false
+    },
+    "MBI": {
+      "displayName": "MBI",
+      "display": true
+    },
+    "PhoneNumber": {
+      "displayName": "Phone",
+      "display": false
+    },
+    "Gender": {
+      "displayName": "Gender",
+      "display": true
+    },
+    "ProviderID": {
+      "displayName": "ProviderID",
+      "display": false
+    },
+    "DateOfBirth": {
+      "displayName": "D.O.B",
+      "display": true
+    },
+    "PCPName": {
+      "displayName": "PCP",
+      "display": true
+    },
+    "PCPPhoneNumber": {
+      "displayName": "PCPPhoneNumber",
+      "display": false
+    },
+    "UniqueProviderID": {
+      "displayName": "UniqueProviderID",
+      "display": false
+    },
+    "PcpNpi": {
+      "displayName": "PcpNpi",
+      "display": false
+    },
+    "PlanCode": {
+      "displayName": "PlanCode",
+      "display": false
+    },
+    "InsuranceCompanyName": {
+      "displayName": "InsuranceCompanyName",
+      "display": false
+    },
+    "InsuranceCompanyCode": {
+      "displayName": "InsuranceCompanyCode",
+      "display": false
+    },
+    "PlanName": {
+      "displayName": "PlanName",
+      "display": false
+    },
+    "EffectiveDate": {
+      "displayName": "Effective Date",
+      "display": true
+    },
+    "TerminationDate": {
+      "displayName": "Term Date",
+      "display": true
+    },
+    "TimeStamp": {
+      "displayName": "TimeStamp",
+      "display": false
+    },
+    "MembershipId": {
+      "displayName": "MembershipId",
+      "display": false
+    },
+    "flag": {
+      "displayName": "flag",
+      "display": false
+    },
+    "AddressLine1": {
+      "displayName": "Address",
+      "display": false
+    },
+    "City": {
+      "displayName": "City",
+      "display": false
+    },
+    "State": {
+      "displayName": "State",
+      "display": false
+    },
+    "ZipCode": {
+      "displayName": "ZipCode",
+      "display": false
+    },
+    "County": {
+      "displayName": "County",
+      "display": false
+    }
+  },
+
+  "EligibilityData": {
+    "UniqueMemberID": {
+      "displayName": "UniqueMemberID",
+      "display": false
+    },
+    "SubscriberID": {
+      "displayName": "Sub. ID",
+      "display": true
+    },
+    "LastName": {
+      "displayName": "Last Name",
+      "display": true
+    },
+    "FirstName": {
+      "displayName": "First Name",
+      "display": true
+    },
+    "MedicaidNumber": {
+      "displayName": "Medicaid Number",
+      "display": false
+    },
+    "MBI": {
+      "displayName": "MBI",
+      "display": true
+    },
+    "PhoneNumber": {
+      "displayName": "PhoneNumber",
+      "display": false
+    },
+    "DateOfBirth": {
+      "displayName": "D.O.B",
+      "display": true
+    },
+    "Gender": {
+      "displayName": "Gender",
+      "display": true
+    },
+    "CenterID": {
+      "displayName": "Center ID",
+      "display": false
+    },
+    "ProviderID": {
+      "displayName": "Provider ID",
+      "display": false
+    },
+    "PCPName": {
+      "displayName": "PCP",
+      "display": true
+    },
+    "PCPPhoneNumber": {
+      "displayName": "PCP Phone Number",
+      "display": false
+    },
+    "UniqueProviderID": {
+      "displayName": "Unique Provider ID",
+      "display": false
+    },
+    "PcpNpi": {
+      "displayName": "PCP",
+      "display": false
+    },
+    "PlanName": {
+      "displayName": "PlanName",
+      "display": false
+    },
+    "PlanCode": {
+      "displayName": "Plan Code",
+      "display": false
+    },
+    "InsuranceCompanyName": {
+      "displayName": "Insurance Company Name",
+      "display": false
+    },
+    "InsuranceCompanyCode": {
+      "displayName": "Insurance Company Code",
+      "display": false
+    },
+    "EffectiveDate": {
+      "displayName": "Effective Date",
+      "display": true
+    },
+    "TerminationDate": {
+      "displayName": "Term Date",
+      "display": true
+    },
+    "TimeStamp": {
+      "displayName": "Time Stamp",
+      "display": false
+    },
+    "MembershipId": {
+      "displayName": "Membership Id",
+      "display": false
+    },
+    "flag": {
+      "displayName": "flag",
+      "display": false
+    },
+    "AddressLine1": {
+      "displayName": "Address Line",
+      "display": false
+    },
+    "City": {
+      "displayName": "City",
+      "display": false
+    },
+    "State": {
+      "displayName": "State",
+      "display": false
+    },
+    "ZipCode": {
+      "displayName": "Zip Code",
+      "display": false
+    },
+    "County": {
+      "displayName": "County",
+      "display": false
+    }
+  },
+  "USerDetails": {
+    "ListUser": {
+      "SLNo": {
+        "displayName": "#",
+        "display": true
+      },
+      "ID": {
+        "displayName": "Id",
+        "display": false
+      },
+      "UserName": {
+        "displayName": "Name",
+        "display": true
+      },
+      "Email": {
+        "displayName": "Email / Username",
+        "display": true
+      },
+      "PhoneNumber": {
+        "displayName": "Contact No.",
+        "display": true
+      },
+      "Address": {
+        "displayName": "Address",
+        "display": true
+      },
+      "Address2": {
+        "displayName": "Address2",
+        "display": false
+      },
+      "DateOfBirth": {
+        "displayName": "D.O.B",
+        "display": false,
+        "filterType": "date"
+      },
+      "Age": {
+        "displayName": "Age",
+        "display": false
+      },
+      "gender": {
+        "displayName": "gender",
+        "display": false
+      },
+      "FaxID": {
+        "displayName": "FaxID",
+        "display": false
+      },
+      "Country": {
+        "displayName": "Country",
+        "display": false
+      },
+      "State": {
+        "displayName": "State",
+        "display": false
+      },
+      "City": {
+        "displayName": "City",
+        "display": false
+      },
+      "ZipCode": {
+        "displayName": "ZipCode",
+        "display": false
+      },
+      "NPI": {
+        "displayName": "NPI",
+        "display": false
+      },
+      "TaxID": {
+        "displayName": "TaxID",
+        "display": false
+      },
+      "Roles": {
+        "displayName": "Roles",
+        "display": true
+      }
+    }
+  }
+}

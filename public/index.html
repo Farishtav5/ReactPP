@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./favicon.ico" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta http-equiv="Cache-control" content="no-cache">
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+        <!-- Custom fonts for this template-->
+      
+      
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <link href="../public/css/font-awesome.css" rel="stylesheet" type="text/css">
+      <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+      <!-- Custom styles for this template-->
+      <link href="css/sb-admin-2.min.css" rel="stylesheet">
+
+      <!-- Styles for TabBar.js-->
+      <link rel="stylesheet" href="path/to/css/react-awesome-tabs.css">
+      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css">
+      <link rel="stylesheet" href="tab.css">
+
+    <title>Mirra Healthcare</title>
+  </head>
+  <body>
+    <!-- <noscript>You need to enable JavaScript to run this app.</noscript> -->
+    <div id="root"></div>
+    <script type="text/javascript" src="config.js"></script>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+
+    <!-- <script type="text/javascript">
+      var idleTime = 0;
+      $(document).ready(function () {
+          //Increment the idle time counter every minute.
+          var idleInterval = setInterval(timerIncrement, 30000); // 1 minute
+      
+          //Zero the idle timer on mouse movement.
+          $(this).mousemove(function (e) {
+              idleTime = 0;
+          });
+          $(this).keypress(function (e) {
+              idleTime = 0;
+          });
+      });
+      
+      function timerIncrement() {
+          idleTime = idleTime + 1;
+          if (idleTime > 1 ) { // 20 minutes
+              // window.location.reload();
+              return (<Redirect to={'/login'} />)
+          }
+      }
+      alert('Asnhul')
+      </script> -->
+
+      <script>
+        // Timeout in seconds
+        var timeout = 10; // 10 seconds
+        
+        // You don't have to change anything below this line, except maybe
+        // the alert('Welcome back!') :-)
+        // ----------------------------------------------------------------
+        var pos = '', prevpos = '', timer = 0, interval = timeout / 5 * 1000;
+        timeout = timeout * 1000 - interval;
+        function mouseHasMoved(e){
+            document.onmousemove = null;
+            prevpos = pos;
+            pos = e.pageX + '+' + e.pageY;
+            if(timer > timeout){
+                timer = 0;
+                // alert('Welcome back!');
+                return (<Redirect to={'/login'} />)
+            }
+        }
+        setInterval(function(){
+            if(pos == prevpos){
+                timer += interval;
+            }else{
+                timer = 0;
+                prevpos = pos;
+            }
+            document.onmousemove = function(e){
+                mouseHasMoved(e);
+            }
+        }, interval);
+        </script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
+      <!-- Bootstrap core JavaScript-->
+  <!-- <script src="vendor/jquery/jquery.min.js"></script> -->
+  <!-- <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+
+  <!-- Core plugin JavaScript-->
+  <!-- <script src="vendor/jquery-easing/jquery.easing.min.js"></script> -->
+
+  <!-- Custom scripts for all pages-->
+  <!-- <script src="js/sb-admin-2.min.js"></script> -->
+  </body>
+  <!-- <script src="../dist/react-awesome-tabs.js"></script> -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+  
+  
+  <script type="text/javaScript">
+    // function preback(){window.history.forward();}
+    // setTimeout("preback()",0);
+    // window.onunload=function(){return "Your work will be lost.";};
+
+
+    // window.location.hash="no-back-button";
+    // window.location.hash="Again-No-back-button";//again because google chrome don't insert first hash into history
+    // window.onhashchange=function(){
+    // window.location.hash="no-back-button";
+    
+    // window.location.hash="no-forward-button";
+
+    // history.pushState(null, null, document.URL);
+    // window.addEventListener('popstate', function () {
+    // history.pushState(null, null, document.URL);
+// });
+// }
+history.pushState(null, null, location.href);
+    window.onpopstate = function () {
+        history.go(1);
+    };
+  </script>
+
+  <!-- <script>
+    setTimeout(function(){
+      document.getElementById('main').addEventListener('click', function(){
+        document.getElementById('collapseDashboard').classList.remove("show");
+      });
+    },1000)
+  </script>
+  
+  
+  <script>
+    setTimeout(function(){
+      document.getElementById('main').addEventListener('click', function(){ 
+        document.getElementById('collapseDashboard1').classList.remove("show");
+      });
+    },1000)
+  </script>
+  <script>
+    setTimeout(function(){
+      document.getElementById('main').addEventListener('click', function(){
+        document.getElementById('collapseDashboard2').classList.remove("show");
+      });
+    },1000)
+  </script> -->
+  
+</html>

@@ -1,0 +1,44 @@
+.app-parent {
+  position: relative;
+}
+
+.app-side-bar-container {
+  height: 100%;
+  width: 40px;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.app-nav-bar-container {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  z-index: 80;
+  width: 100%;
+}
+
+.app-body-container {
+  z-index: 60;
+  padding-left: 50px;
+  /* padding-top: 8px; */
+}
+
+.app-body-table-container {
+  margin-top: -8px;
+  z-index: 60;
+  padding-left: 50px;
+  padding-top: 8px;
+}
+.app-NewTab-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 60;
+  padding-left: 50px;
+  margin-bottom: -15px !important;
+}
+

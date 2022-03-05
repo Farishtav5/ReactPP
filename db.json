@@ -1,0 +1,1877 @@
+{
+  "providerdata": {
+    "name": "Ambrish"
+  },
+  "login": {
+    "EMail": "ambrish@gmail.com",
+    "Password": "1234",
+    "apiId": "providermgmt"
+  },
+  "GetMembershipsPerProvider": {
+    "Top5CostDetails": [
+      {
+        "ProviderName": "Edel Alvarez Galban",
+        "MemberShipCount": "3238"
+      },
+      {
+        "ProviderName": "Pariksith Singh",
+        "MemberShipCount": "2121"
+      },
+      {
+        "ProviderName": "Chris Coppola",
+        "MemberShipCount": "2099"
+      },
+      {
+        "ProviderName": "Ana C. Cruz-Diaz",
+        "MemberShipCount": "1633"
+      },
+      {
+        "ProviderName": "Syeda Rizvi",
+        "MemberShipCount": "1496"
+      },
+      {
+        "ProviderName": "Jaime Luis Torres",
+        "MemberShipCount": "1420"
+      },
+      {
+        "ProviderName": "Robert Hartzell",
+        "MemberShipCount": "1411"
+      },
+      {
+        "ProviderName": "Nathaniel Vinje",
+        "MemberShipCount": "1347"
+      },
+      {
+        "ProviderName": "Miguel Fana",
+        "MemberShipCount": "1345"
+      },
+      {
+        "ProviderName": "Jennifer Laman",
+        "MemberShipCount": "1321"
+      },
+      {
+        "ProviderName": "Angie Layme",
+        "MemberShipCount": "1302"
+      },
+      {
+        "ProviderName": "Amy Capoocia",
+        "MemberShipCount": "1298"
+      },
+      {
+        "ProviderName": "Manjusri Vennamaneni",
+        "MemberShipCount": "1276"
+      },
+      {
+        "ProviderName": "David Herndon",
+        "MemberShipCount": "1244"
+      },
+      {
+        "ProviderName": "Maria Scunziano-Singh",
+        "MemberShipCount": "1244"
+      },
+      {
+        "ProviderName": "Gaurav Malhotra",
+        "MemberShipCount": "1013"
+      },
+      {
+        "ProviderName": "Jude A. Pierre",
+        "MemberShipCount": "973"
+      },
+      {
+        "ProviderName": "Oscar Lindo",
+        "MemberShipCount": "954"
+      },
+      {
+        "ProviderName": "Sindhu Dadlani",
+        "MemberShipCount": "928"
+      },
+      {
+        "ProviderName": "Aaron Guthrie",
+        "MemberShipCount": "918"
+      },
+      {
+        "ProviderName": "Johnson Kenneth",
+        "MemberShipCount": "910"
+      },
+      {
+        "ProviderName": "Kenneth Johnson ",
+        "MemberShipCount": "910"
+      },
+      {
+        "ProviderName": "Ivan Diaz",
+        "MemberShipCount": "909"
+      },
+      {
+        "ProviderName": "Michael P. Lamparelli",
+        "MemberShipCount": "905"
+      },
+      {
+        "ProviderName": "Monica A. Esposito",
+        "MemberShipCount": "873"
+      },
+      {
+        "ProviderName": "Brian Kroll",
+        "MemberShipCount": "854"
+      },
+      {
+        "ProviderName": "Shaheen Pirani",
+        "MemberShipCount": "828"
+      },
+      {
+        "ProviderName": "Colleen Campbell",
+        "MemberShipCount": "802"
+      },
+      {
+        "ProviderName": "Syed Wajahat Ali ",
+        "MemberShipCount": "774"
+      },
+      {
+        "ProviderName": "David Sassano",
+        "MemberShipCount": "763"
+      },
+      {
+        "ProviderName": "Mehul Shah",
+        "MemberShipCount": "761"
+      },
+      {
+        "ProviderName": "Michelle Arrieta-Gonzalez",
+        "MemberShipCount": "749"
+      },
+      {
+        "ProviderName": "Ivan Ramos",
+        "MemberShipCount": "737"
+      }
+    ]
+  },
+  "GetTop5ProvidersCost": {
+    "Top5CostDetails": [
+      {
+        "ProviderName": "Chris Coppola",
+        "Cost": "35978274.82"
+      },
+      {
+        "ProviderName": "Pariksith Singh",
+        "Cost": "33778118.71"
+      },
+      {
+        "ProviderName": "Edel Alvarez Galban",
+        "Cost": "30003500.81"
+      },
+      {
+        "ProviderName": "Miguel Fana",
+        "Cost": "26093109.01"
+      },
+      {
+        "ProviderName": "Robert Hartzell",
+        "Cost": "23938320.6"
+      },
+      {
+        "ProviderName": "Veselin Stoyanov",
+        "Cost": "20878601.51"
+      },
+      {
+        "ProviderName": "Michael Reynolds",
+        "Cost": "20612845.49"
+      },
+      {
+        "ProviderName": "Abdel  Jibawi",
+        "Cost": "20396469.49"
+      },
+      {
+        "ProviderName": "Jennifer Laman",
+        "Cost": "20143986.34"
+      },
+      {
+        "ProviderName": "Nathaniel Vinje",
+        "Cost": "19919479.25"
+      },
+      {
+        "ProviderName": "David Herndon",
+        "Cost": "19870595.05"
+      },
+      {
+        "ProviderName": "Jaime Luis Torres",
+        "Cost": "19124588.32"
+      },
+      {
+        "ProviderName": "Maria Scunziano-Singh",
+        "Cost": "17132456.1"
+      },
+      {
+        "ProviderName": "Manjusri Vennamaneni",
+        "Cost": "17030694.04"
+      },
+      {
+        "ProviderName": "Ana C.  Cruz-Diaz",
+        "Cost": "16939659.38"
+      },
+      {
+        "ProviderName": "Alexander Tambrini",
+        "Cost": "16214922.95"
+      },
+      {
+        "ProviderName": "Alex Tambrini",
+        "Cost": "16214922.95"
+      },
+      {
+        "ProviderName": "Amy Capoocia",
+        "Cost": "15731314.86"
+      },
+      {
+        "ProviderName": "Jose Rodriguez",
+        "Cost": "15047147.53"
+      },
+      {
+        "ProviderName": "Angie Layme",
+        "Cost": "14361048.23"
+      },
+      {
+        "ProviderName": "Michelle Arrieta-Gonzalez",
+        "Cost": "14058362.13"
+      },
+      {
+        "ProviderName": "Jude A. Pierre",
+        "Cost": "13972330.94"
+      },
+      {
+        "ProviderName": "Surendar G. Rao",
+        "Cost": "13428763.03"
+      },
+      {
+        "ProviderName": "Adisa Dzudza-Sunjic",
+        "Cost": "13380205.96"
+      },
+      {
+        "ProviderName": "Ivan Diaz",
+        "Cost": "12711564.02"
+      },
+      {
+        "ProviderName": "Brunel Joseph",
+        "Cost": "12471938.79"
+      },
+      {
+        "ProviderName": "Pal Durai",
+        "Cost": "12289187.4"
+      },
+      {
+        "ProviderName": "Grigor Varlakov",
+        "Cost": "11998761.07"
+      },
+      {
+        "ProviderName": "Johnson Kenneth",
+        "Cost": "11897068.37976"
+      },
+      {
+        "ProviderName": "Kenneth  Johnson ",
+        "Cost": "11897068.37976"
+      },
+      {
+        "ProviderName": "Luis, Jr Contreras",
+        "Cost": "11864373.62"
+      }
+    ]
+  },
+  "GetMembershipsCost": {
+    "Top5CostDetails": [
+      {
+        "MemberName": "SEBASTIAN NIEVES",
+        "Cost": "974252.34"
+      },
+      {
+        "MemberName": "THOMAS NELSON",
+        "Cost": "762710.49"
+      },
+      {
+        "MemberName": "SUSAN HOUGHTON",
+        "Cost": "705296.48"
+      },
+      {
+        "MemberName": "PEGGY CHERRY",
+        "Cost": "634644.7"
+      },
+      {
+        "MemberName": "BARBARA HINKEL",
+        "Cost": "587120.45"
+      },
+      {
+        "MemberName": "JOSEPH CARDILLO",
+        "Cost": "572722.02"
+      },
+      {
+        "MemberName": "ALEXANDRA CACERES MALO",
+        "Cost": "562379.79"
+      },
+      {
+        "MemberName": "DERRICK WILLIAMS",
+        "Cost": "541836.1"
+      },
+      {
+        "MemberName": "DONALD DESMARAIS",
+        "Cost": "527003.56"
+      },
+      {
+        "MemberName": "GEORGIA LOY",
+        "Cost": "522914.8"
+      }
+    ]
+  },
+  "GetPartACostForProvider": {
+    "PartACostDetails": [
+      {
+        "Year": "2018",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "533082.71",
+          "475811.74",
+          "640079.53",
+          "502563.44",
+          "464545.66",
+          "555514.449999999",
+          "660647.13",
+          "568895.1",
+          "651697.89",
+          "731377.64",
+          "799701.15",
+          "777984.08"
+        ]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "751715.98",
+          "773372.49",
+          "814038.1",
+          "783316.02",
+          "660787.33",
+          "676064.52",
+          "713504.17",
+          "785931.509999999",
+          "674571.95",
+          "756669.87",
+          "779000.88",
+          "540844.43"
+        ]
+      },
+      {
+        "Year": "2020",
+        "month": ["January", "February", "March", "April"],
+        "cost": ["614587.41", "10768.43", "21052.33", "2574.4"]
+      }
+    ]
+  },
+  "GetPartBCostForProvider": {
+    "PartBCostDetails": [
+      {
+        "Year": "2018",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "330409.079999999",
+          "326102.360000001",
+          "303831.499999999",
+          "307868.120000001",
+          "337305.29",
+          "421047.93",
+          "491830.050000001",
+          "438057.189999999",
+          "449440.88",
+          "501638.399999999",
+          "419941.929999999",
+          "415412.159999999"
+        ]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "476818.589999998",
+          "427346.699999999",
+          "458690.709999999",
+          "456932.379999999",
+          "450234.489999997",
+          "405906.009999997",
+          "438012.469999999",
+          "440105.439999999",
+          "372372.670000001",
+          "405386.949999998",
+          "410004.179999997",
+          "341841.679999999"
+        ]
+      },
+      {
+        "Year": "2020",
+        "month": ["January", "February", "March", "April"],
+        "cost": ["336794.39", "19231.22", "21480.63", "4846.77"]
+      }
+    ]
+  },
+  "GetPartDCostForProvider": {
+    "PartDCostDetails": [
+      {
+        "Year": "2018",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "325729.180000001",
+          "242039.190000001",
+          "224236.020000001",
+          "242460.440000001",
+          "342227.360000001",
+          "287368.730000001",
+          "312030.660000001",
+          "294025.6",
+          "282587.35",
+          "315089.58",
+          "332775.429999999",
+          "291615.260000001"
+        ]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "cost": [
+          "323299.160000001",
+          "242255.890000001",
+          "266285.860000001",
+          "295620.39",
+          "356302.77",
+          "333773.08",
+          "357994.73",
+          "350936.66",
+          "337031.040000001",
+          "388285.770000001",
+          "313123.950000001",
+          "378040.219999999"
+        ]
+      },
+      {
+        "Year": "2020",
+        "month": ["January", "February", "March", "April", "May"],
+        "cost": [
+          "322758.150000001",
+          "49668.12",
+          "65080.11",
+          "32814.02",
+          "18.15"
+        ]
+      }
+    ]
+  },
+  "GetPartAClaimsForProvider": {
+    "PartAClaimDetails": [
+      {
+        "Year": "2017",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "claim": [
+          "185",
+          "169",
+          "209",
+          "167",
+          "219",
+          "191",
+          "235",
+          "246",
+          "225",
+          "256",
+          "245",
+          "230"
+        ]
+      },
+      {
+        "Year": "2018",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "claim": [
+          "285",
+          "215",
+          "251",
+          "241",
+          "267",
+          "278",
+          "333",
+          "298",
+          "281",
+          "334",
+          "275",
+          "276"
+        ]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "claim": [
+          "315",
+          "289",
+          "313",
+          "303",
+          "333",
+          "307",
+          "315",
+          "387",
+          "317",
+          "289",
+          "274",
+          "288"
+        ]
+      },
+      {
+        "Year": "2020",
+        "month": ["January", "February", "March", "April", "May"],
+        "cost": ["322", "496", "116", "328", "185"]
+      }
+    ]
+  },
+  "GetPartBClaimsForProvider": {
+    "PartBClaimDetails": [
+      {
+        "Year": "2018",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "claim": [
+          "2139",
+          "1910",
+          "2100",
+          "1941",
+          "2196",
+          "2519",
+          "2592",
+          "2597",
+          "2486",
+          "3050",
+          "2610",
+          "2392"
+        ]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "January",
+          "February",
+          "March",
+          "April",
+          "May",
+          "June",
+          "July",
+          "August",
+          "September",
+          "October",
+          "November",
+          "December"
+        ],
+        "claim": [
+          "2751",
+          "2656",
+          "2863",
+          "3090",
+          "2924",
+          "2679",
+          "2787",
+          "2980",
+          "2607",
+          "2792",
+          "2559",
+          "2420"
+        ]
+      },
+      {
+        "Year": "2020",
+        "month": ["January", "February", "March", "April"],
+        "claim": ["2361", "235", "252", "94"]
+      }
+    ]
+  },
+  "GetMembershipGraph": {
+    "MembershipGraphDetails": [
+      {
+        "Year": "2018",
+        "month": [
+          "November",
+          "October",
+          "September",
+          "July",
+          "June",
+          "March",
+          "February",
+          "January"
+        ],
+        "member": ["1", "1", "2", "1", "1", "4", "3", "16"]
+      },
+      {
+        "Year": "2019",
+        "month": [
+          "December",
+          "November",
+          "October",
+          "September",
+          "August",
+          "July",
+          "June",
+          "May",
+          "April",
+          "March",
+          "February",
+          "January"
+        ],
+        "member": ["2", "10", "1", "1", "2", "3", "3", "1", "3", "5", "2", "14"]
+      },
+      {
+        "Year": "2020",
+        "month": ["December", "September", "August", "June", "May", "January"],
+        "member": ["1", "5", "2", "2", "2", "4"]
+      }
+    ]
+  },
+  "GetMinAndMaxPartACostForProvider": {
+    "MinValue": "2",
+    "Maxvalue": "12"
+  },
+  "GetMinAndMaxPartBCostForProvider": {
+    "MinValue": "3",
+    "Maxvalue": "13"
+  },
+  "GetMinAndMaxPartDCostForProvider": {
+    "MinValue": "4",
+    "Maxvalue": "14"
+  },
+  "GetMinAndMaxPartAClaimsForProvider": {
+    "MinValue": "5",
+    "Maxvalue": "15"
+  },
+  "GetMinAndMaxPartBClaimsForProvider": {
+    "MinValue": "6",
+    "Maxvalue": "16"
+  },
+  "GetGroupsAssociatedForProvider": {
+    "GroupDetails": [
+      {
+        "ID": "12",
+        "GroupName": "Compassionate Medical Center "
+      },
+      {
+        "ID": "14",
+        "GroupName": "Default"
+      }
+    ]
+  },
+  "GetPlansAssociatedForProvider": {
+    "PlansDetails": [
+      {
+        "ID": "3",
+        "PlanName": "Freedom"
+      },
+      {
+        "ID": "5",
+        "PlanName": "Optimum"
+      },
+      {
+        "ID": "9",
+        "PlanName": "Wellcare"
+      },
+      {
+        "ID": "11",
+        "PlanName": "Wellcare"
+      },
+      {
+        "ID": "13",
+        "PlanName": "Wellcare"
+      },
+      {
+        "ID": "14",
+        "PlanName": "Wellcare"
+      }
+    ]
+  },
+  "GetClaimDeatils": {
+    "ClaimsDetails": [
+      {
+        "claimNumber": "P0019022500287",
+        "billingProviderName": "GREEN BENNY",
+        "taxid": "710611415",
+        "pcpNPI": "1265418669",
+        "providerName": "GREEN  ",
+        "subscribeID": "AR2001107",
+        "subscriberName": "BROWN WONDA R",
+        "patientName": "BROWN WONDA R",
+        "dosFromDate": "2018-09-04",
+        "dosToDate": "2018-09-09",
+        "planCode": "61184",
+        "paidOn": "2019-03-12",
+        "totalNetPaymentAmt": 427.23,
+        "totalPaymentAmount": 427.23,
+        "claimStatus": "PAID",
+        "age": "58",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-02-18",
+        "uniqueMemberID": "1015"
+      },
+      {
+        "claimNumber": "P0020080701015",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABCORP  ",
+        "subscribeID": "AR2000043",
+        "subscriberName": "YINGST BRENDA L",
+        "patientName": "YINGST BRENDA L",
+        "dosFromDate": "2020-06-08",
+        "dosToDate": "2020-06-08",
+        "planCode": "61184",
+        "paidOn": null,
+        "totalNetPaymentAmt": 100.19,
+        "totalPaymentAmount": 100,
+        "claimStatus": null,
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2020-07-21",
+        "uniqueMemberID": null
+      },
+      {
+        "claimNumber": "P0020072300020",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABCORP DALLAS  ",
+        "subscribeID": "AR2000084",
+        "subscriberName": "BROOKS CARMEN ",
+        "patientName": "BROOKS CARMEN ",
+        "dosFromDate": "2020-06-09",
+        "dosToDate": "2020-06-09",
+        "planCode": "61184",
+        "paidOn": null,
+        "totalNetPaymentAmt": 100,
+        "totalPaymentAmount": 100,
+        "claimStatus": "PAID",
+        "age": "91",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2020-07-20",
+        "uniqueMemberID": "227"
+      },
+      {
+        "claimNumber": "P0020072300020",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABCORP DALLAS  ",
+        "subscribeID": "AR2000084",
+        "subscriberName": "BROOKS CARMEN ",
+        "patientName": "BROOKS CARMEN ",
+        "dosFromDate": "2020-06-09",
+        "dosToDate": "2020-06-09",
+        "planCode": "61184",
+        "paidOn": "2020-08-10",
+        "totalNetPaymentAmt": -100,
+        "totalPaymentAmount": -100,
+        "claimStatus": "Voided",
+        "age": "91",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2020-07-20",
+        "uniqueMemberID": "227"
+      },
+      {
+        "claimNumber": "P0019041500134",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORPORATION OF AMERICA  ",
+        "subscribeID": "AR2000125",
+        "subscriberName": "RICHARDS KEVIN H",
+        "patientName": "RICHARDS KEVIN H",
+        "dosFromDate": "2019-03-15",
+        "dosToDate": "2019-03-15",
+        "planCode": "61184",
+        "paidOn": "2019-05-07",
+        "totalNetPaymentAmt": 0,
+        "totalPaymentAmount": 0,
+        "claimStatus": "PAID",
+        "age": "35",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-03-25",
+        "uniqueMemberID": "95"
+      },
+      {
+        "claimNumber": "P0019121800362",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORPORATION OF AMERICA ",
+        "subscribeID": "AR2000125",
+        "subscriberName": "RICHARDS KEVIN H",
+        "patientName": "RICHARDS KEVIN H",
+        "dosFromDate": "2019-09-10",
+        "dosToDate": "2019-09-10",
+        "planCode": "61184",
+        "paidOn": "2020-02-03",
+        "totalNetPaymentAmt": 36.12,
+        "totalPaymentAmount": 36.08,
+        "claimStatus": "PAID",
+        "age": "35",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-12-16",
+        "uniqueMemberID": "95"
+      },
+      {
+        "claimNumber": "P0020040200274",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORP  ",
+        "subscribeID": "AR2000125",
+        "subscriberName": "RICHARDS KEVIN ",
+        "patientName": "RICHARDS KEVIN ",
+        "dosFromDate": "2020-03-10",
+        "dosToDate": "2020-03-10",
+        "planCode": "61184",
+        "paidOn": "2020-04-10",
+        "totalNetPaymentAmt": 0,
+        "totalPaymentAmount": 0,
+        "claimStatus": "PAID",
+        "age": "35",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2020-03-30",
+        "uniqueMemberID": "95"
+      },
+      {
+        "claimNumber": "P0019022400015",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "BLANCETT KAYLA ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2018-07-09",
+        "dosToDate": "2018-07-09",
+        "planCode": "61184",
+        "paidOn": "2019-03-20",
+        "totalNetPaymentAmt": 58.61,
+        "totalPaymentAmount": 58.61,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-02-19",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019022400016",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "BLANCETT KAYLA ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2018-07-09",
+        "dosToDate": "2018-07-09",
+        "planCode": "61184",
+        "paidOn": "2019-03-20",
+        "totalNetPaymentAmt": 68.92,
+        "totalPaymentAmount": 68.92,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-02-19",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019022400018",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "CORPORATION LABORATORY ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2018-07-09",
+        "dosToDate": "2018-07-09",
+        "planCode": "61184",
+        "paidOn": "2019-03-04",
+        "totalNetPaymentAmt": 0,
+        "totalPaymentAmount": 0,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-02-19",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019022400019",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "CORPORTATION LABORATORY ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2018-07-09",
+        "dosToDate": "2018-07-09",
+        "planCode": "61184",
+        "paidOn": "2019-03-04",
+        "totalNetPaymentAmt": 0,
+        "totalPaymentAmount": 0,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-02-19",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019080710262",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LORSON DEVIN ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2019-01-11",
+        "dosToDate": "2019-01-11",
+        "planCode": "61184",
+        "paidOn": "2019-08-19",
+        "totalNetPaymentAmt": 68.05,
+        "totalPaymentAmount": 68.05,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-08-05",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019080710263",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LARSON DEVIN ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2019-01-15",
+        "dosToDate": "2019-01-15",
+        "planCode": "61184",
+        "paidOn": "2019-08-19",
+        "totalNetPaymentAmt": 39.76,
+        "totalPaymentAmount": 39.76,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-08-05",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019080710264",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LARSON DEVIN ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2019-01-15",
+        "dosToDate": "2019-01-15",
+        "planCode": "61184",
+        "paidOn": "2019-08-19",
+        "totalNetPaymentAmt": 81.57,
+        "totalPaymentAmount": 81.57,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-08-05",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019091110834",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "DENIS HASSON M",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA A",
+        "patientName": "HUMMEL PAMELA A",
+        "dosFromDate": "2019-04-01",
+        "dosToDate": "2019-04-01",
+        "planCode": "61184",
+        "paidOn": "2019-09-24",
+        "totalNetPaymentAmt": 14.64,
+        "totalPaymentAmount": 14.64,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-08-30",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019110710284",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORPORATION OF AMERICA  ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2019-06-18",
+        "dosToDate": "2019-06-18",
+        "planCode": "61184",
+        "paidOn": "2019-11-18",
+        "totalNetPaymentAmt": 42.26,
+        "totalPaymentAmount": 42.26,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-11-07",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019110710289",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORPORATION OF AMERICA  ",
+        "subscribeID": "AR2000175",
+        "subscriberName": "HUMMEL PAMELA ",
+        "patientName": "HUMMEL PAMELA ",
+        "dosFromDate": "2019-05-29",
+        "dosToDate": "2019-05-29",
+        "planCode": "61184",
+        "paidOn": "2019-11-18",
+        "totalNetPaymentAmt": 38.97,
+        "totalPaymentAmount": 38.91,
+        "claimStatus": "PAID",
+        "age": "60",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2019-09-30",
+        "uniqueMemberID": "123"
+      },
+      {
+        "claimNumber": "P0019010700395",
+        "billingProviderName": "LABORATORY CORPORATION OF AMERICA ",
+        "taxid": "840611484",
+        "pcpNPI": "1265418669",
+        "providerName": "LABORATORY CORPORATION OF AMERICA  ",
+        "subscribeID": "AR2000184",
+        "subscriberName": "PAYNE III J ",
+        "patientName": "PAYNE III J ",
+        "dosFromDate": "2018-11-12",
+        "dosToDate": "2018-11-12",
+        "planCode": "61184",
+        "paidOn": "2019-02-04",
+        "totalNetPaymentAmt": 24.62,
+        "totalPaymentAmount": 24.53,
+        "claimStatus": "PAID",
+        "age": "54",
+        "planName": "ARKANSAS SUPERIOR SELECT",
+        "claimType": "FFS",
+        "planReceivedDate": "2018-11-27",
+        "uniqueMemberID": "240"
+      }
+    ]
+  },
+
+  "GetPracticeLocation": {
+    "PracticeLocation": [
+      {
+        "SLNo": 1,
+        "Effective": "Jan 01, 2020",
+        "Term": "Dec 31, 2020",
+        "ProviderID": "P0987654321",
+        "PracticeName": "Eastern Great Lakes Pathology PC",
+        "Location": "565 Abbott Rd",
+        "City": "Buffalo",
+        "State": "NY",
+        "County": null,
+        "Country": null,
+        "Zip": "14220-2039",
+        "FaxNo": null,
+        "ContactNo": "7164476232",
+        "Email": null
+      },
+      {
+        "SLNo": 2,
+        "Effective": "Jan 01, 2020",
+        "Term": "Dec 31, 2020",
+        "ProviderID": "P0987654321",
+        "PracticeName": "Eastern Great Lakes Pathology PC",
+        "Location": "565 Abbott Rd",
+        "City": "Buffalo",
+        "State": "NY",
+        "County": null,
+        "Country": null,
+        "Zip": "14220-2039",
+        "FaxNo": null,
+        "ContactNo": "7164476232",
+        "Email": null
+      }
+    ]
+  },
+  "GetContractInformation": {
+    "Contract": [
+      {
+        "SLNo": 1,
+        "Effective": "Jan 31, 2018",
+        "Term": null,
+        "TaxID": "161502883",
+        "Plan": "KALOS HEALTH GOLD PLUS (HMO SNP)",
+        "NetworkID": null,
+        "Contract": null,
+        "Allocation": null,
+        "ProvType": "Specialist",
+        "TimelyFilling": "90",
+        "ContractID": "DME_75 - CON000000001",
+        "IPA": null,
+        "IsAutoPCPAssignment": null,
+        "Vendor": null,
+        "Network": "OON",
+        "Medicare": null,
+        "AreMidLevelsSubjectedToCMSDiscount": null,
+        "practiceLocations": [
+          {
+            "ContractProviderRosterId": "8399",
+            "PracticeLocationDetailId": "6444",
+            "PracticeLocation": "565 Abbott Rd , Buffalo , NY , 142202039",
+            "Status": null
+          }
+        ],
+        "PayTo": [
+          {
+            "ContractProviderRosterId": "5423",
+            "VendorDetailId": "1763",
+            "PayToAddress": "oobdlkbM ubkW - jvZ vkmsnoW 6 , owyR xskdxeyW , BK , 142568950",
+            "Status": "Active",
+            "ContractPayToMappingId": "5423",
+            "IsDefault": "false"
+          },
+          {
+            "ContractProviderRosterId": "5423",
+            "VendorDetailId": "10659",
+            "PayToAddress": ",oobdlkbM  ubkW - jvZ vkmsnoW 6 , owyR xskdxeyW , BK , 142568950",
+            "Status": "Active",
+            "ContractPayToMappingId": "10271",
+            "IsDefault": "true"
+          },
+          {
+            "ContractProviderRosterId": "5423",
+            "VendorDetailId": "3085",
+            "PayToAddress": "ODEDSDCXS OXSZC NXK MSQYVYBEOX NVOSPQXSBZC - 7672 hyL YZ , nvospqxsbzC , YW , 767243189",
+            "Status": "Active",
+            "ContractPayToMappingId": "856865",
+            "IsDefault": "false"
+          }
+        ]
+      }
+    ]
+  },
+  "GetProfileHeaderInfo": {
+    "ProviderHeader": {
+      "NPI": "PRO000002745",
+      "Age": 23,
+      "Gender": "Male",
+      "DOB": "01-02-2020 00:00:00",
+      "Email": "anshulj@mirrahealthcare.com",
+      "FirstName": "Sateesh",
+      "MiddleName": "K",
+      "LastName": "Satchidanand",
+      "Suffix": "Dr.",
+      "Degree": "MCH",
+      "PracticeOrganization": "XYZ",
+      "Speciality": "Pathology",
+      "PCP_Speciality": "Surgery",
+      "LicenseNo": null,
+      "DEA": 321,
+      "CLIA": 654,
+      "Medicare": 876,
+      "Status": "Active"
+    }
+  },
+  "ResetPassword": {
+    "Message": {
+      "Message": "Your password has been reset. "
+    }
+  },
+  "GetMemberHeaderDetailsByUniqueID": {
+    "MemberHeader": {
+      "MemberName": null,
+      "FirstName": "xsbkU",
+      "MiddleName": null,
+      "LastName": "cswymmW ourmcdxoR",
+      "Gender": "Female",
+      "DateOfBirth": "1957-01-17T00:00:00",
+      "Age": 63,
+      "PhoneNumber": "1824456050",
+      "MBI": null,
+      "InsuranceCompanyCode": "INC00002218",
+      "InsuranceCompanyName": "ULTIMATE HEALTH PLANS",
+      "PlanName": "Acclaim (HMO)",
+      "PlanCode": "PLN00000576",
+      "PlanEffectiveDate": "2019-01-01T00:00:00",
+      "PlanTerminationDate": "9999-12-31T00:00:00",
+      "IsActive": true,
+      "PcpName": "TODD MILLER",
+      "PcpPhone": null,
+      "CenterID": "200000012906",
+      "AddressLine1": "C dC rd17 3895",
+      "AddressLine2": null,
+      "City": "dbyzpveQ",
+      "County": "ckvvoxsZ",
+      "State": "FL",
+      "ZipCode": "44066"
+    }
+  },
+  "GetMemberShipInfo": {
+    "MemberShipInfo": [
+      {
+        "SubscriberID": "1633333VE",
+        "InsuranceCompanyCode": "INC00002218",
+        "InsuranceCompanyName": "ULTIMATE HEALTH PLANS",
+        "PlanCode": "PLN00000494",
+        "PlanName": "Ultimate Premier plus",
+        "PlanEffectiveDate": "2014-01-01T00:00:00",
+        "PlanTerminationDate": "9999-12-31T00:00:00",
+        "Address": {
+          "AddressLine1": "xV ibkbozzsD 6657",
+          "AddressLine2": null,
+          "City": "ovvsfcuyybL",
+          "County": "ynxkxboR",
+          "State": "FL",
+          "ZipCode": "43976"
+        }
+      }
+    ]
+  },
+  "GetAllUserInfo": {
+    "UsersList": [
+      {
+        "SLNo": 1,
+        "UserName": "Tom ghj kumar",
+        "Email": "1234@gmail.com",
+        "PhoneNumber": "6363707752",
+        "Address": "Nagar",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "",
+        "City": "",
+        "ZipCode": "12345",
+        "ID": "f895c0f4-da62-4008-8d92-633bbeb687ed",
+        "NPI": "123456789",
+        "TaxID": "",
+        "Roles": "Provider|User Admin"
+      },
+
+      {
+        "SLNo": 2,
+        "UserName": "Ms Acharya",
+        "Email": "1235@gmail.com",
+        "PhoneNumber": "",
+        "Address": "Bengaluru",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "",
+        "FaxID": "",
+        "Country": "",
+        "State": "",
+        "City": "bengaluru",
+        "ZipCode": "12345",
+        "ID": "0f2aeafd-5792-4dce-8bf9-2d756762de1f",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "Plan Admin|User Admin"
+      },
+
+      {
+        "SLNo": 3,
+        "UserName": "Ambri bjkl anshul",
+        "Email": "ambrish@gmail.com",
+        "PhoneNumber": "6363707752",
+        "Address": "Nagar",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "009",
+        "Country": "INDIA",
+        "State": "Karnataka",
+        "City": "Nagar",
+        "ZipCode": "100",
+        "ID": "86870006-f57a-4c6b-b201-2c0800d44e7d",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "Plan Admin"
+      },
+
+      {
+        "SLNo": 4,
+        "UserName": "All sukla",
+        "Email": "ambrishsukla123@gmail.com",
+        "PhoneNumber": "9438107293",
+        "Address": "Bengaluru",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "",
+        "City": "",
+        "ZipCode": "12345",
+        "ID": "1c89fd0a-5797-40aa-8e12-0e309e89e758",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin|Plan Admin"
+      },
+
+      {
+        "SLNo": 5,
+        "UserName": "anshul Kumara ramana",
+        "Email": "hgyg@gmail.com",
+        "PhoneNumber": "",
+        "Address": "qwert1",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "",
+        "City": "",
+        "ZipCode": "87654",
+        "ID": "7896de45-7075-4881-a75f-9760e397daea",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin"
+      },
+
+      {
+        "SLNo": 6,
+        "UserName": "anshul suklaa",
+        "Email": "jaiswal.anshul7@gmail.com",
+        "PhoneNumber": "6363707752",
+        "Address": "Nagar",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "009",
+        "Country": "INDIA",
+        "State": "Karnataka",
+        "City": "Nagar",
+        "ZipCode": "100",
+        "ID": "35393121-c769-4809-b7d2-59614d1dc1c8",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin|Plan Admin"
+      },
+
+      {
+        "SLNo": 7,
+        "UserName": "Paine Tim",
+        "Email": "jaiswalanshul5731@gmail.com",
+        "PhoneNumber": "",
+        "Address": "3321",
+        "Address2": "",
+        "DateOfBirth": null,
+        "Age": "",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "Uttar Pradesh",
+        "City": "Pratapgarh",
+        "ZipCode": "230304",
+        "ID": "2c50eea6-8f79-4c6e-b0de-6e1a824b73bc",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin|Plan Admin"
+      },
+
+      {
+        "SLNo": 8,
+        "UserName": "k j",
+        "Email": "jk@gmail.com",
+        "PhoneNumber": "",
+        "Address": "qwe01",
+        "Address2": "",
+        "DateOfBirth": "01/12/2021",
+        "Age": "0",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "",
+        "City": "",
+        "ZipCode": "12345",
+        "ID": "8fc768bd-e2f5-43f4-9e1c-a445f3c9a892",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin"
+      },
+
+      {
+        "SLNo": 9,
+        "UserName": "Sharma Rohit",
+        "Email": "lkj@gmail.com",
+        "PhoneNumber": "",
+        "Address": "123",
+        "Address2": "",
+        "DateOfBirth": "01/10/2021",
+        "Age": "0",
+        "gender": "Male",
+        "FaxID": "",
+        "Country": "",
+        "State": "Uttar Pradesh",
+        "City": "Pratapgarh",
+        "ZipCode": "230304",
+        "ID": "8fcfe862-67e4-4ce7-9474-45be1ecf770b",
+        "NPI": "",
+        "TaxID": "",
+        "Roles": "User Admin"
+      }
+    ]
+  },
+  "ListNPIBasedOnTaxID": {
+    "Details": [
+      {
+        "Id": 0,
+        "VendorId": null,
+        "NPI": "1194074393",
+        "ProviderId": "PRO000011577",
+        "ProviderLastName": "Marcussen",
+        "ProviderFirstName": "Crystal",
+        "ProviderMiddleName": "Dawn",
+        "Specialty": null,
+        "ProviderType": "PHYSICIAN",
+        "LocationDetails": [],
+        "ContractInformation": [
+          {
+            "ContractProviderRosterId": "36003",
+            "ProviderName": null,
+            "IsAutoPCPAssignmentEligible": null,
+            "AreMidlevelProvidersSubjectToCMSDiscount": null,
+            "InsuranceCompanyName": null,
+            "AgreementID": null,
+            "NetworkAffiliation": null,
+            "EffectiveDate": "02/09/2021",
+            "TermDate": null,
+            "PayToAddresses": [],
+            "Contract": null,
+            "UniqueContractID": null,
+            "MedicareNumber": null,
+            "NPINumber": null,
+            "PracticeLocations": [],
+            "TimelyFiling": null,
+            "Sequestration": null,
+            "ProviderType": null,
+            "GroupName": null,
+            "TaxID": "020737147",
+            "Unique1099ID": null,
+            "Status": "Active",
+            "IPAName": null,
+            "Allocation": null
+          }
+        ]
+      },
+      {
+        "Id": 0,
+        "VendorId": null,
+        "NPI": "1205032497",
+        "ProviderId": "PRO000011569",
+        "ProviderLastName": "Spohr",
+        "ProviderFirstName": "Kevin",
+        "ProviderMiddleName": "test_19Feb_M1",
+        "Specialty": null,
+        "ProviderType": "PHYSICIAN",
+        "LocationDetails": [
+          {
+            "PracticeLocationDetailId": "20902",
+            "Name": null,
+            "PracticeName": null,
+            "EffectiveDate": null,
+            "TermDate": null,
+            "ZipCode": "327784300",
+            "StreetAddress": "1816 Salk Ave",
+            "SuiteAddress": null,
+            "City": "Tavares",
+            "State": "FL",
+            "County": "Lake",
+            "Country": null,
+            "Phone": null,
+            "Fax": null,
+            "Contact": null,
+            "Email": null,
+            "Status": null,
+            "PracticeLocation": null,
+            "HoursOfOperation": [],
+            "ProviderID": null
+          }
+        ],
+
+        "ContractInformation": [
+          {
+            "ContractProviderRosterId": "35967",
+            "ProviderName": null,
+            "IsAutoPCPAssignmentEligible": null,
+            "AreMidlevelProvidersSubjectToCMSDiscount": null,
+            "InsuranceCompanyName": null,
+            "AgreementID": null,
+            "NetworkAffiliation": null,
+            "EffectiveDate": "02/17/2021",
+            "TermDate": null,
+            "PayToAddresses": [],
+            "Contract": null,
+            "UniqueContractID": null,
+            "MedicareNumber": null,
+            "NPINumber": null,
+            "PracticeLocations": [],
+            "TimelyFiling": null,
+            "Sequestration": null,
+            "ProviderType": null,
+            "GroupName": null,
+            "TaxID": "020737147",
+            "Unique1099ID": null,
+            "Status": "Active",
+            "IPAName": null,
+            "Allocation": null
+          }
+        ]
+      },
+
+      {
+        "Id": 0,
+        "VendorId": null,
+        "NPI": "1851851584",
+        "ProviderId": "PRO000010823",
+        "ProviderLastName": "ckbkZ",
+        "ProviderFirstName": "ynxkxbop ymcsmxkbP",
+        "ProviderMiddleName": "cytonklK",
+        "Specialty": null,
+        "ProviderType": "PHYSICIAN",
+        "LocationDetails": [
+          {
+            "PracticeLocationDetailId": "20435",
+            "Name": null,
+            "PracticeName": null,
+            "EffectiveDate": null,
+            "TermDate": null,
+            "ZipCode": "13077",
+            "StreetAddress": "gx bn imbow 3564",
+            "SuiteAddress": null,
+            "City": "xydxkM",
+            "State": "RY",
+            "County": "ubkdC",
+            "Country": null,
+            "Phone": null,
+            "Fax": null,
+            "Contact": null,
+            "Email": null,
+            "Status": null,
+            "PracticeLocation": null,
+            "HoursOfOperation": [],
+            "ProviderID": null
+          }
+        ],
+
+        "ContractInformation": [
+          {
+            "ContractProviderRosterId": "22373",
+            "ProviderName": null,
+            "IsAutoPCPAssignmentEligible": null,
+            "AreMidlevelProvidersSubjectToCMSDiscount": null,
+            "InsuranceCompanyName": null,
+            "AgreementID": null,
+            "NetworkAffiliation": null,
+            "EffectiveDate": "01/01/2018",
+            "TermDate": null,
+            "PayToAddresses": [],
+            "Contract": null,
+            "UniqueContractID": null,
+            "MedicareNumber": null,
+            "NPINumber": null,
+            "PracticeLocations": [],
+            "TimelyFiling": null,
+            "Sequestration": null,
+            "ProviderType": null,
+            "GroupName": null,
+            "TaxID": "020737147",
+            "Unique1099ID": null,
+            "Status": "Active",
+            "IPAName": null,
+            "Allocation": null
+          }
+        ]
+      },
+
+      {
+        "Id": 0,
+        "VendorId": null,
+        "NPI": "5623024414",
+        "ProviderId": "PRO000010679",
+        "ProviderLastName": "SBPKT",
+        "ProviderFirstName": "LSDKRU",
+        "ProviderMiddleName": null,
+        "Specialty": null,
+        "ProviderType": "PHYSICIAN",
+        "LocationDetails": [
+          {
+            "PracticeLocationDetailId": "20290",
+            "Name": null,
+            "PracticeName": null,
+            "EffectiveDate": null,
+            "TermDate": null,
+            "ZipCode": "749513077",
+            "StreetAddress": "GX bN imboW 3564",
+            "SuiteAddress": null,
+            "City": "xydxkM",
+            "State": "RY",
+            "County": "ubkdC",
+            "Country": null,
+            "Phone": null,
+            "Fax": null,
+            "Contact": null,
+            "Email": null,
+            "Status": null,
+            "PracticeLocation": null,
+            "HoursOfOperation": [],
+            "ProviderID": null
+          }
+        ],
+
+        "ContractInformation": [
+          {
+            "ContractProviderRosterId": "22145",
+            "ProviderName": null,
+            "IsAutoPCPAssignmentEligible": null,
+            "AreMidlevelProvidersSubjectToCMSDiscount": null,
+            "InsuranceCompanyName": null,
+            "AgreementID": null,
+            "NetworkAffiliation": null,
+            "EffectiveDate": "01/01/2018",
+            "TermDate": null,
+            "PayToAddresses": [],
+            "Contract": null,
+            "UniqueContractID": null,
+            "MedicareNumber": null,
+            "NPINumber": null,
+            "PracticeLocations": [],
+            "TimelyFiling": null,
+            "Sequestration": null,
+            "ProviderType": null,
+            "GroupName": null,
+            "TaxID": "020737147",
+            "Unique1099ID": null,
+            "Status": "Active",
+            "IPAName": null,
+            "Allocation": null
+          }
+        ]
+      },
+
+      {
+        "Id": 0,
+        "VendorId": null,
+        "NPI": "6975246634",
+        "ProviderId": "PRO000010680",
+        "ProviderLastName": "BKPKC",
+        "ProviderFirstName": "KNSK",
+        "ProviderMiddleName": null,
+        "Specialty": null,
+        "ProviderType": "PHYSICIAN",
+        "LocationDetails": [
+          {
+            "PracticeLocationDetailId": "20291",
+            "Name": null,
+            "PracticeName": null,
+            "EffectiveDate": null,
+            "TermDate": null,
+            "ZipCode": "749513077",
+            "StreetAddress": "GX bN imboW 3564",
+            "SuiteAddress": null,
+            "City": "xydxkM",
+            "State": "RY",
+            "County": "ubkdC",
+            "Country": null,
+            "Phone": null,
+            "Fax": null,
+            "Contact": null,
+            "Email": null,
+            "Status": null,
+            "PracticeLocation": null,
+            "HoursOfOperation": [],
+            "ProviderID": null
+          }
+        ],
+
+        "ContractInformation": [
+          {
+            "ContractProviderRosterId": "22146",
+            "ProviderName": null,
+            "IsAutoPCPAssignmentEligible": null,
+            "AreMidlevelProvidersSubjectToCMSDiscount": null,
+            "InsuranceCompanyName": null,
+            "AgreementID": null,
+            "NetworkAffiliation": null,
+            "EffectiveDate": "01/01/2018",
+            "TermDate": null,
+            "PayToAddresses": [],
+            "Contract": null,
+            "UniqueContractID": null,
+            "MedicareNumber": null,
+            "NPINumber": null,
+            "PracticeLocations": [],
+            "TimelyFiling": null,
+            "Sequestration": null,
+            "ProviderType": null,
+            "GroupName": null,
+            "TaxID": "020737147",
+            "Unique1099ID": null,
+            "Status": "Active",
+            "IPAName": null,
+            "Allocation": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+
+.home-parent {
+    position: relative;
+}
+
+.dashboard-container {
+    z-index: 80;
+    top: 0;
+    width: 80%;
+}
+
+.full-scren-dashboard-container {
+    z-index: 80;
+    top: 0;
+    width: 100%;
+}
+
+.Right-side-container {
+    z-index: 80;
+    top: 0;
+    position: fixed;
+    margin-left: 78%;
+    height: 100% !important;
+    background-color: #FFF;
+    width: 18%;
+}
+
+.padding {
+    padding-right: 16px;
+}
+.padding-top{
+    padding-top: 8px;
+}

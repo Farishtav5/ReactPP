@@ -1,0 +1,342 @@
+.ant-card-head {
+  min-height: 48px;
+  margin-bottom: -1px;
+  padding: 0 8px;
+  color: rgba(0, 0, 0, 0.85);
+  font-weight: 500;
+  font-size: 16px;
+  background: transparent;
+  border-bottom: 1px solid #e8e8e8;
+  border-radius: 2px 2px 0 0;
+  zoom: 1;
+}
+
+.search-card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 10px #00000019;
+  border: 1px solid #588ae02f;
+  opacity: 1;
+  border-radius: 4px;
+}
+
+.search-card-text {
+  /* text-align: center; */
+  font-size: 12px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.24px;
+  color: #16345f;
+  opacity: 1;
+}
+
+/* .ant-select-selection__placeholder{
+    text-align: center;
+    font: normal normal medium 10px/13px Montserrat;
+    letter-spacing: -0.4px;
+    color: #969696 !important;
+  } */
+
+.search-button {
+  width: 25px;
+  height: 24px;
+  /* box-shadow: 0px 5px 10px #00000027; */
+  border: none;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.clear-button-color {
+  background: transparent
+    linear-gradient(
+      224deg,
+      #de7272 0%,
+      #d14a4af0 29%,
+      #ba3636cb 68%,
+      #e67575 100%
+    )
+    0% 0% no-repeat padding-box;
+}
+
+.search-button-color {
+  background: transparent
+    linear-gradient(
+      224deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+}
+
+.search-sreen-text {
+  text-align: left;
+  font-size: 20px !important;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: 0px;
+  color: #464f5d;
+  text-transform: capitalize;
+  opacity: 1;
+}
+
+.blank-screen-image {
+  /* position: absolute; */
+  padding-top: 12vh;
+  padding-left: 26vw;
+}
+
+.no-data-found {
+  /* position: absolute; */
+  padding-top: 6vh;
+  padding-left: 28vw;
+}
+
+.or {
+  margin-left: 12vw;
+}
+
+.ant-input:placeholder-shown {
+  background: #f8f6f6 !important;
+  color: #272626 !important;
+}
+
+.ant-tabs-nav-scroll {
+  padding-left: 8px;
+}
+
+/* .ant-tabs {
+  background-color: #F7FAFF !important;
+} */
+
+.npdata-text {
+  text-align: center;
+  text-align: left;
+  font-size: 18px !important;
+  font-family: Montserrat;
+  margin-left: 52px !important;
+  font-weight: 500;
+  color: #464f5d;
+  text-transform: capitalize;
+}
+
+.total-lenth {
+  text-align: left !important;
+  float: left !important;
+  font-size: 14px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: 0px;
+  color: #323539;
+}
+
+.ant-tabs-card-bar {
+  background: transparent
+    linear-gradient(
+      268deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  border-radius: 4px 0px 0px 4px;
+  padding-top: 8px;
+}
+
+/* Css for member Details header section */
+
+.details-header {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 2px 8px 20px #00000014;
+  border: 1px solid #16345f15 !important;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.cercle {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.cercle-green {
+  background: #29C9A6 0% 0% no-repeat padding-box;
+}
+
+.cercle-red {
+  background: #f55757 0% 0% no-repeat padding-box;
+}
+
+.border-horizental {
+  border-top: 2px dashed #16345f4e;
+  /* width: 2px; */
+  opacity: 0.3;
+}
+
+.border-vertical {
+  height: 142px;
+  border-left: 2px dashed #b6b8b84e;
+}
+
+.member-text {
+  /* text-align: center; */
+  font-size: 14px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #16345F;
+  opacity: 1;
+}
+
+.member-name {
+  text-align: left;
+  font-size: 20px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: 0.56px;
+  color: #000000;
+  opacity: 1;
+}
+
+.member-age {
+  text-align: left;
+  font-size: 14px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: 0.28px;
+  color: #000000;
+  opacity: 1;
+}
+
+.details-header-sub {
+  text-align: left;
+  font-size: 12px !important;
+  font-weight: 700;
+  font-family: Montserrat;
+  letter-spacing: 0px;
+  color: #16345F;
+  opacity: 1;
+}
+
+.details-header-row {
+  text-align: left;
+  font-size: 11px !important;
+  /* font-weight: 700; */
+  font-family: Montserrat;
+  letter-spacing: 0px;
+  color: #c0c0c0;
+  opacity: 1;
+}
+
+.details-mbi {
+  text-align: left;
+  /* font-weight: 700; */
+  font-family: Montserrat;
+  letter-spacing: 0.8px;
+}
+
+.text-size-header {
+  font-size: 13px !important;
+  font-weight: 600;
+  color: #16345F !important;
+}
+
+.text-size-data {
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  color: #000000;
+}
+
+.member-details-address {
+  text-align: left;
+  font-size: 13px !important;
+  font-family: Montserrat;
+  letter-spacing: -0.28px;
+  color: #c0c0c0;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.member-details-address-text {
+  /* text-align: left; */
+  /* margin-top: '-14px' !important; */
+  font-size: 13px !important;
+  font-family: Montserrat;
+  letter-spacing: 0px;
+  color: #16345F;
+  font-weight: 600;
+  opacity: 1;
+}
+
+/* ........Member Details body section css..... */
+
+.details-body {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: -1px 2px 6px #0000001a;
+  border: 1px solid #ededed80;
+  border-radius: 4px;
+  width: 300px;
+  opacity: 1;
+}
+
+.details-tab {
+  box-shadow: 0px 0px 10px #00000027;
+  border-radius: 4px;
+  border: none;
+  text-align: center;
+  font-size: 12px !important;
+  font-family: Montserrat;
+  opacity: 1;
+  background: transparent
+    linear-gradient(
+      261deg,
+      #7eaeff 0%,
+      #4583ef 29%,
+      #427bddeb 77%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+}
+
+.simple-button {
+  border: none;
+  background: #fff;
+  text-align: center;
+  font-size: 12px !important;
+  font-family: Montserrat;
+  color: #ADB5C1;
+  opacity: 1;
+}
+
+.tab-details-card {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #16345F14;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.row-details {
+  background: #EDF4FF 0% 0% no-repeat padding-box;
+  font-family: Montserrat !important;
+  font-size: 12px !important;
+  font-weight: 500;
+  color: #1f3e72;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.member-info-header {
+  text-align: left;
+  font-size: 11px !important;
+  font-weight: 550;
+  font-family: Montserrat !important;
+  letter-spacing: 0px;
+  color: #1b1e22;
+  opacity: 1;
+}
+
+.ant-calendar-picker {
+  border: 1px solid #dcdee0;
+  border-bottom: none;
+  border-radius: 4px;
+}

@@ -1,0 +1,165 @@
+/* Check Box Antd css */
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #4a80dc !important;
+  border-color: #4a80dc !important;
+  border-radius: 50%;
+  height: 12px;
+  width: 12px;
+}
+
+.ant-checkbox-wrapper .ant-checkbox-inner,
+.ant-checkbox .ant-checkbox-inner,
+.ant-checkbox-input + .ant-checkbox-inner {
+  border-radius: 52%;
+  height: 12px;
+  width: 12px;
+  border-color: #2a3ba4 !important;
+}
+
+.ant-checkbox-inner,
+.ant-checkbox-checked .ant-checkbox-inner {
+  /* background-color: #2a3ba4 !important; */
+  border-color: #2a3ba4 !important;
+  border-radius: 52%;
+  height: 12px;
+  width: 12px;
+}
+
+/* ********************************************************************************************************/
+/* Pagination Css For Ant design */
+
+/* .anticon svg {
+      margin-top: -4px !important;
+    } */
+
+.ant-pagination-item a {
+  color: #2e384d80 !important;
+}
+
+.ant-pagination.mini .ant-pagination-prev,
+.ant-pagination.mini .ant-pagination-next {
+  line-height: 24px;
+  background: transparent
+    linear-gradient(
+      298deg,
+      #7eaeff 0%,
+      #427bddeb 12%,
+      #4583ef 93%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 10px #00000027;
+  color: #fff;
+}
+
+.ant-pagination-item {
+  background: #e3ecfb !important;
+}
+
+.ant-pagination-item-active a {
+  color: #0f3371 !important;
+  border: 0.002rem solid #0f3371 !important;
+}
+
+.ant-pagination-item-active {
+  font-weight: 500;
+  background: #fff;
+  border-color: #0f3371 !important;
+}
+
+/* Prev Button pagination space css */
+.ant-pagination.mini .ant-pagination-prev {
+  margin-right: 4px !important;
+}
+
+/* Next Button pagination space css */
+.ant-pagination.mini .ant-pagination-next {
+  margin-left: 4px !important;
+}
+
+/* When page size is big then for 3 dots color css */
+.ant-pagination-item-ellipsis {
+  background: #e3ecfb !important;
+}
+
+.ant-pagination-item-ellipsis:focus {
+  background: #e3ecfb !important;
+}
+
+/* ********************************************************************************************************/
+
+/* ********************************************************************************************************/
+/* All Input box Css */
+.ant-input-search:not(.ant-input-search-enter-button) {
+  border-radius: 4px !important;
+  background: #f5f6fb;
+}
+
+.ant-input-affix-wrapper > input.ant-input {
+  background: #f5f6fb;
+}
+
+/* Css Change for Date Picker */
+
+.ant-picker-small {
+  border-radius: 4px !important;
+  background: #f5f6fb;
+}
+
+/* ********************************************************************************************************/
+
+/* Tab margin css */
+
+.ant-tabs-content-holder {
+  -ms-flex: auto;
+  flex: auto;
+  min-width: 0;
+  min-height: 0;
+  margin-top: -8px !important;
+}
+
+/* ******************************************************************************************************* */
+
+/* Antd Tabs css */
+
+.ant-tabs-tab {
+  background: #5a94fb58 0% 0% no-repeat padding-box !important;
+  border-radius: 4px 4px 0px 0px;
+  font-family: Montserrat !important;
+  font-size: 13px !important;
+  /* font-weight: 600 !important; */
+  border: none !important;
+  color: #fff !important;
+  opacity: 1;
+}
+
+.ant-tabs-tab-active {
+  text-align: center !important;
+  font-family: Montserrat !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  background-color: #fff !important;
+  color: #154caa !important;
+  letter-spacing: 0.58px !important;
+}
+
+.ant-btn-lg {
+  height: 40px;
+  margin-top: 8px;
+  padding: 0 15px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.ant-input-search:not(.ant-input-search-enter-button) {
+  border-radius: 4px !important;
+  background: #fff;
+}
+
+.ant-col-15 {
+  display: block;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 62.5%;
+  margin-top: -8px;
+}

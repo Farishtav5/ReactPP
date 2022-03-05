@@ -1,0 +1,4 @@
+ 
+window.webApi = {
+    ConfigApi : "#{APIURL}#"
+  }

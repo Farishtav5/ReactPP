@@ -1,0 +1,30 @@
+.table-responsive {
+  font-size: 11px;
+  /* box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 16px 0px; */
+}
+
+.table {
+  margin-bottom: 0.001rem !important;
+}
+
+.table-header-scroll {
+  height: 96vh !important;
+  overflow-y: scroll !important;
+}
+
+.table-fotter-button {
+  background: transparent
+    linear-gradient(
+      286deg,
+      #7eaeff 0%,
+      #427bddeb 12%,
+      #4583ef 93%,
+      #759fe6 100%
+    )
+    0% 0% no-repeat padding-box !important;
+  box-shadow: 0px 5px 10px #00000027;
+  border: none;
+  border-radius: 4px;
+  opacity: 1;
+  color: #ffffff;
+}
